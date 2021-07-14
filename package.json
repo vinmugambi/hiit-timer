@@ -1,0 +1,18 @@
+{
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "@xstate/inspect": "^0.4.1",
+    "autoprefixer": "^10.3.1",
+    "postcss": "^8.3.5",
+    "tailwindcss": "^2.2.4",
+    "vite": "^2.4.2"
+  },
+  "dependencies": {
+    "xstate": "^4.22.0"
+  }
+}
