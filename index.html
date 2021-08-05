@@ -8,6 +8,10 @@
   </head>
   <body>
     <div id="app"></div>
+    <form action=".netlify/functions/greet">
+      <input type="text" id="name" name="name" />
+      <button type="submit">Greet</button>
+    </form>
     <script type="module" src="./src/main.js"></script>
   </body>
 </html>

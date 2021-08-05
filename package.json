@@ -6,8 +6,10 @@
     "serve": "vite preview"
   },
   "devDependencies": {
+    "@originjs/vite-plugin-commonjs": "^1.0.0-beta6",
     "@xstate/inspect": "^0.4.1",
     "autoprefixer": "^10.3.1",
+    "netlify-cli": "^5.4.16",
     "postcss": "^8.3.5",
     "tailwindcss": "^2.2.4",
     "vite": "^2.4.2"
